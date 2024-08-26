@@ -1,0 +1,1 @@
+require 'rails/observers/action_controller/action_controller'
